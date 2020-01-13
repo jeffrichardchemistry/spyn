@@ -19,8 +19,12 @@ This software works in Linux's environments. Was tested in debian's distribution
 # Setting externally 
 In case of errors in installation, try install dependencies on a terminal.
 
-Repositories Debian's - dependencies
+Repositories Debian's - dependencies:
 
--gawk
+- gawk, gfortran, openmpi-bin, openmpi-doc, libopenmpi-dev, xterm, openbabel, jmol, python3-dev, python3-pip, python3-pyqt5
 
--gfortran
+Python dependencies:
+
+- PyQt5, matplotlib, pandas, scipy, numpy
+
+This softwares use a module of Quantum-Espresso(QE) to performe GIPAW calculations, In case of errors in installation, its possible install QE externaly, then create a simbolic link for executable pw.x with name <b>pw<\b> 
