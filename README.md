@@ -27,4 +27,4 @@ Python dependencies:
 
 - PyQt5, matplotlib, pandas, scipy, numpy
 
-This softwares use a module of Quantum-Espresso(QE) to performe GIPAW calculations, In case of errors in installation, its possible install QE externaly, then create a simbolic link for executable pw.x with name <b>pw</b> a
+This software use a module of Quantum-Espresso(QE) to performe GIPAW calculations, In case of errors in installation, its possible install QE externaly, then create a simbolic link for executable <b>pw.x</b> with name <b>pw</b> and another simbolic link for executable <b>gipaw.x</b> with name <b>gipaw</b>, thus, its possible to use any version of QE. The default version of QE in spyn is 6.3. 
