@@ -27,4 +27,4 @@ Python dependencies:
 
 - PyQt5, matplotlib, pandas, scipy, numpy
 
-This softwares use a module of Quantum-Espresso(QE) to performe GIPAW calculations, In case of errors in installation, its possible install QE externaly, then create a simbolic link for executable pw.x with name <b>pw<\b> 
+This softwares use a module of Quantum-Espresso(QE) to performe GIPAW calculations, In case of errors in installation, its possible install QE externaly, then create a simbolic link for executable pw.x with name <b>pw</b> a
