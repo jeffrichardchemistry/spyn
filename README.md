@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/225914130.svg)](https://zenodo.org/badge/latestdoi/225914130)
+
 # Spyn
 Its a software for conformational search, Boltzmann calculations, solid-state nuclear magnetic resonance (ssNMR) with the theory GIPAW and plot for visualization outputs spectra. The source code is all free in the tar.gz file.
 
