@@ -1,0 +1,10 @@
+### Comandos utilizados do terminal Linux
+
+pidof        ##pegar o numero do processo no top
+cp e mv      ##copiar ou mover arquivos
+mpirun -np 4    ##rodar o paralelo do pw
+grep            ##Filtrar textos
+$PWD            ##pegar diretório atual do usuário
+obabel          ##rodar o openbabel
+obenergy        ##calcular energia dos confomeros
+rm           ##Excluir arquivos

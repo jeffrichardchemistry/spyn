@@ -1,0 +1,45 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'c2 h5 n1 o2'
+_cell_length_a                         4.9669(9)
+_cell_length_b                         11.459(4)
+_cell_length_c                         5.4231(12)
+_cell_angle_alpha                      90
+_cell_angle_beta                       114.916(15)
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 21/n'
+_space_group_IT_number                 14
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x+1/2, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   O1         1.0     1.1613(10)    0.8495(13)   -0.1015(10)   Uiso  0.015000 O
+   O2         1.0     0.6973(10)    0.9096(13)   -0.2326(10)   Uiso  0.013000 O
+   C1         1.0     0.9389(13)    0.8715(15)   -0.0588(11)   Uiso  0.012000 C
+   C2         1.0     0.9624(15)    0.8497(13)    0.2265(13)   Uiso  0.013000 C
+   N1         1.0     0.7225(13)    0.9097(14)    0.2691(13)   Uiso  0.012000 N
+   H1         1.0     0.949200      0.766600      0.252300     Uiso  0.019600 H
+   H2         1.0     1.152400      0.878600      0.358200     Uiso  0.019600 H
+   H3         1.0     0.740800      0.895600      0.437100     Uiso  0.018300 H
+   H4         1.0     0.547300      0.883300      0.149500     Uiso  0.018300 H
+   H5         1.0     0.733700      0.986200      0.246700     Uiso  0.018300 H

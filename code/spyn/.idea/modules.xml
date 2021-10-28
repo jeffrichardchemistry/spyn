@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Tutorial/Jeff/python/DSA/.idea/DSA.iml" filepath="$PROJECT_DIR$/../../Tutorial/Jeff/python/DSA/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Tutorial/Jeff/python/Udemy/.idea/Udemy.iml" filepath="$PROJECT_DIR$/../../Tutorial/Jeff/python/Udemy/.idea/Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/atompy.iml" filepath="$PROJECT_DIR$/.idea/atompy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rotinas_python/.idea/rotinas_python.iml" filepath="$PROJECT_DIR$/../rotinas_python/.idea/rotinas_python.iml" />
+    </modules>
+  </component>
+</project>
